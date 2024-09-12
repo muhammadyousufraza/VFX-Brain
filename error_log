@@ -1,0 +1,3 @@
+[19-Aug-2024 08:29:21 UTC] Cron unschedule event error for hook: fs_install_sync_wpr-addons, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":false,"args":[]}
+[06-Sep-2024 08:18:51 UTC] Cron unschedule event error for hook: fs_install_sync_wpr-addons, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":false,"args":[]}
+[11-Sep-2024 08:34:09 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
